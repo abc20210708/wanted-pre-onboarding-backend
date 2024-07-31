@@ -1,4 +1,4 @@
-package org.here.here;
+package org.here.zero;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
